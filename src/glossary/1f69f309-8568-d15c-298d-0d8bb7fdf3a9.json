@@ -1,0 +1,4 @@
+{
+  "term": "Hybrid Cloud",
+  "definition": "the Cloud infrastructure is a composition of two or more Clouds (private, community, or public) that remain unique entities but are bound together by standardized or proprietary technology that enables data and application portability (e.g., Cloud bursting for load-balancing between Clouds)."
+}

@@ -1,0 +1,182 @@
+{
+  "name": "Cloud_Environment",
+  "description": "Cloud environment drawings, description and glossary. ",
+  "owner": {
+    "login": "TurboPatent",
+    "type": "organization"
+  },
+  "license": "MIT",
+  "private": false,
+  "details": {
+    "counts": {
+      "termCount": 0,
+      "claimCount": 1,
+      "independentCount": 1,
+      "drawingCount": 3,
+      "glossaryCount": 13
+    },
+    "briefDescriptions": [
+      "<p>illustrates a <span data-role=\"tag\" data-value=\"6e5f4717-d4a0-41f1-6248-0541aad29d87\" id=\"idbde78333-1cea-6d3e-06c2-b7fda4f62aac\" data-type=\"drawingObject\">Cloud computing node 100</span> in accordance with one embodiment.</p>",
+      "<p>illustrates an <span data-role=\"tag\" data-value=\"4b09bf94-0ed6-b86a-b419-85f1e2aece55\" id=\"idf9b9402d-4ef4-770c-9cb7-f656b13d6baa\" data-type=\"drawingObject\">item 200</span> in accordance with one embodiment.</p>",
+      "<p>illustrates an <span data-role=\"tag\" data-value=\"bb3156e7-f531-eee8-6124-ac7dd4e4a043\" id=\"id3c630886-58a7-dc43-8906-46578d5c65bd\" data-type=\"drawingObject\">item 300</span> in accordance with one embodiment.</p>"
+    ],
+    "parts": [
+      {
+        "name": "Cloud computing node",
+        "number": 100
+      },
+      {
+        "name": "computer system/server",
+        "number": 102
+      },
+      {
+        "name": "processing units",
+        "number": 104
+      },
+      {
+        "name": "system memory",
+        "number": 106
+      },
+      {
+        "name": "Random access memory (RAM)",
+        "number": 108
+      },
+      {
+        "name": "cache memory",
+        "number": 110
+      },
+      {
+        "name": "storage system",
+        "number": 112
+      },
+      {
+        "name": "program/utility",
+        "number": 114
+      },
+      {
+        "name": "program modules",
+        "number": 116
+      },
+      {
+        "name": "I/O interfaces",
+        "number": 118
+      },
+      {
+        "name": "display",
+        "number": 120
+      },
+      {
+        "name": "external devices",
+        "number": 122
+      },
+      {
+        "name": "network adapter",
+        "number": 124
+      },
+      {
+        "name": "bus",
+        "number": 126
+      },
+      {
+        "name": "item",
+        "number": 200
+      },
+      {
+        "name": "laptop",
+        "number": 202
+      },
+      {
+        "name": "cellular telephone",
+        "number": 204
+      },
+      {
+        "name": "automobile computer system",
+        "number": 206
+      },
+      {
+        "name": "desktop computer",
+        "number": 208
+      },
+      {
+        "name": "cloud computing environment",
+        "number": 210
+      },
+      {
+        "name": "item",
+        "number": 300
+      },
+      {
+        "name": "workloads layer",
+        "number": 302
+      },
+      {
+        "name": "management layer",
+        "number": 304
+      },
+      {
+        "name": "virtualization layer",
+        "number": 306
+      },
+      {
+        "name": "hardware and software layer",
+        "number": 308
+      }
+    ],
+    "terms": [],
+    "glossary": [
+      {
+        "term": "Cloud computing",
+        "definition": "a model for enabling convenient, on-demand network access to a shared pool of configurable computing resources (e.g., networks, servers, storage, applications, and services) that can be rapidly provisioned and released with minimal management effort or service provider interaction. This Cloud model promotes availability and is comprised of at least five characteristics, at least three service models, and at least four deployment models."
+      },
+      {
+        "term": "On-demand self-service",
+        "definition": "a consumer can unilaterally provision computing capabilities, such as server time and network storage, as needed, automatically without requiring human interaction with each service's provider."
+      },
+      {
+        "term": "Broad network access",
+        "definition": "capabilities are available over a network and accessed through standard mechanisms that promote use by heterogeneous thin or thick client platforms (e.g., mobile phones, laptops, and PDAs).\n\n"
+      },
+      {
+        "term": "Resource pooling",
+        "definition": "the provider's computing resources are pooled to serve multiple consumers using a multi-tenant model, with different physical and virtual resources dynamically assigned and reassigned according to consumer demand. There is a sense of location independence in that the customer generally has no control or knowledge over the exact location of the provided resources but may be able to specify location at a higher level of abstraction (e.g., country, state, or datacenter). Examples of resources include storage, processing, memory, network bandwidth, and virtual machines."
+      },
+      {
+        "term": "Rapid elasticity",
+        "definition": "capabilities can be rapidly and elastically provisioned, in some cases automatically, to quickly scale out and rapidly released to quickly scale in. To the consumer, the capabilities available for provisioning often appear to be unlimited and can be purchased in any quantity at any time."
+      },
+      {
+        "term": "Measured service",
+        "definition": "cloud systems automatically control and optimize resource use by leveraging a metering capability at some level of abstraction appropriate to the type of service (e.g., storage, processing, bandwidth, and active user accounts). Resource usage can be monitored, controlled, and reported providing transparency for both the provider and consumer of the utilized service."
+      },
+      {
+        "term": "Cloud Software as a Service (SaaS)",
+        "definition": "the capability provided to the consumer is to use the provider's applications running on a Cloud infrastructure. The applications are accessible from various client devices through a thin client interface such as a web browser (e.g., web-based email). The consumer does not manage or control the underlying Cloud infrastructure including network, servers, operating systems, storage, or even individual application capabilities, with the possible exception of limited user-specific application configuration settings."
+      },
+      {
+        "term": "Cloud Platform as a Service (PaaS)",
+        "definition": "the capability provided to the consumer is to deploy onto the Cloud infrastructure consumer-created or acquired applications created using programming languages and tools supported by the provider. The consumer does not manage or control the underlying Cloud infrastructure including networks, servers, operating systems, or storage, but has control over the deployed applications and possibly application hosting environment configurations."
+      },
+      {
+        "term": "Cloud Infrastructure as a Service (IaaS)",
+        "definition": "the capability provided to the consumer is to provision processing, storage, networks, and other fundamental computing resources where the consumer is able to deploy and run arbitrary software, which can include operating systems and applications. The consumer does not manage or control the underlying Cloud infrastructure but has control over operating systems, storage, deployed applications, and possibly limited control of select networking components (e.g., host firewalls)."
+      },
+      {
+        "term": "Private Cloud",
+        "definition": "the Cloud infrastructure is operated solely for an organization. It may be managed by the organization or a third party and may exist on-premises or off-premises."
+      },
+      {
+        "term": "Community Cloud",
+        "definition": "the Cloud infrastructure is shared by several organizations and supports a specific community that has shared concerns (e.g., mission, security requirements, policy, and compliance considerations). It may be managed by the organizations or a third party and may exist on-premises or off-premises."
+      },
+      {
+        "term": "Public Cloud",
+        "definition": "the Cloud infrastructure is made available to the general public or a large industry group and is owned by an organization selling Cloud services."
+      },
+      {
+        "term": "Hybrid Cloud",
+        "definition": "the Cloud infrastructure is a composition of two or more Clouds (private, community, or public) that remain unique entities but are bound together by standardized or proprietary technology that enables data and application portability (e.g., Cloud bursting for load-balancing between Clouds)."
+      }
+    ]
+  },
+  "repository": "https://github.com/TurboPatent/Cloud_Environment"
+}

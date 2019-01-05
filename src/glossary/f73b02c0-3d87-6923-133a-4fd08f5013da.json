@@ -1,0 +1,4 @@
+{
+  "term": "Cloud Infrastructure as a Service (IaaS)",
+  "definition": "the capability provided to the consumer is to provision processing, storage, networks, and other fundamental computing resources where the consumer is able to deploy and run arbitrary software, which can include operating systems and applications. The consumer does not manage or control the underlying Cloud infrastructure but has control over operating systems, storage, deployed applications, and possibly limited control of select networking components (e.g., host firewalls)."
+}
